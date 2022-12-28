@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+}
+#container{
+   text-align: center;
+   border: 2px solid silver;
+   width: 180px;
+   margin: auto;
+   padding : 15px ;
+   border-radius: 10px;
+   background-color: darkgrey;
+}
+table{
+    margin: auto;
+}
+input{
+    height: 25px;
+    width: 170px;
+    border: 2px solid salmon ;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+button{
+    width: 35px;
+    height: 35px;
+    margin: 1px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#equal{
+   background-color: rgb(26, 33, 170);
+  color:silver;
+}
+button:hover{
+    background-color: salmon;
+    
+}
